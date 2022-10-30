@@ -1,0 +1,8 @@
+{
+"verb" : "get",
+"url" : "https://boxoffice.tfi.org.tw/api/export",
+"start_date" : "2022/10/21",
+"end_date" : "2022/10/28",
+"headers" : "{'content-type': 'application/json'}",
+"body" : "json.dumps({})"
+}
